@@ -1,0 +1,19 @@
+{
+  "endpoints": [
+    {
+      "name": "predict",
+      "url": "https://yourazuremlendpoint.com/predict",
+      "description": "Endpoint para enviar solicitações de previsão."
+    },
+    {
+      "name": "train",
+      "url": "https://yourazuremlendpoint.com/train",
+      "description": "Endpoint para treinar o modelo."
+    },
+    {
+      "name": "monitor",
+      "url": "https://yourazuremlendpoint.com/monitor",
+      "description": "Endpoint para monitorar o desempenho do modelo."
+    }
+  ]
+}
